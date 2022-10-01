@@ -1,7 +1,8 @@
 """Project name : INCOME-TAX CALCULATOR
 Version         : 1.0
 Devloper Name   : Akshay Sudhakar Kathar
-Date            : 06-06-2022 """
+Date            : 16-06-2022 """
+
 
 name = input("ENTER YOUR NAME :")
 age = int(input("ENTER YOUR AGE :"))
